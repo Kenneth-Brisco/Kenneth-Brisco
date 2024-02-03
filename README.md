@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <a href="https://chromedino.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/dino-dark.gif" />
