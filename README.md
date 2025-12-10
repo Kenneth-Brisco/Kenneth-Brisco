@@ -1,4 +1,4 @@
-<a href="https://chromedino.com">
+<a href="https://github.com/Kenneth-Brisco">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/tronny4.gif" />
     <source media="(prefers-color-scheme: light)" srcset="./img/tronny4.gif" />
